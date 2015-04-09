@@ -5,6 +5,8 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.SocketException;
 
+import br.ufc.quixada.concorrencia.util.MessageUtils;
+
 
 public class Server implements Runnable{
 	ServerSocket serverSocket;

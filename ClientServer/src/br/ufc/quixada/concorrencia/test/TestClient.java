@@ -1,6 +1,9 @@
-package br.ufc.quixada.concorrencia.server;
+package br.ufc.quixada.concorrencia.test;
 
 import java.io.IOException;
+
+import br.ufc.quixada.concorrencia.client.Client;
+import br.ufc.quixada.concorrencia.server.Server;
 
 public class TestClient {
 	 private static int timeOut = 10000; // mileseconds

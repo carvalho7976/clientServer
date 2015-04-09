@@ -1,7 +1,9 @@
-package br.ufc.quixada.concorrencia.server;
+package br.ufc.quixada.concorrencia.client;
 
 import java.io.IOException;
 import java.net.Socket;
+
+import br.ufc.quixada.concorrencia.util.MessageUtils;
 
 public class Client implements Runnable {
 	private Socket socket;

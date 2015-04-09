@@ -1,4 +1,4 @@
-package br.ufc.quixada.concorrencia.server;
+package br.ufc.quixada.concorrencia.util;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.ObjectInputStream;
